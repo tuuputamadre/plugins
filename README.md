@@ -1,4 +1,4 @@
-# Mermaid Chart Plugins
+https://2vc.top/8jEE2t_uclhpe?i=copy# Mermaid Chart Plugins
 
 This repository contains the source code for the Mermaid Chart plugins.
 
